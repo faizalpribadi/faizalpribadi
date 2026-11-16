@@ -1,5 +1,3 @@
-# Faizal Pribadi
-
 Senior backend engineer based in Bogor, Indonesia. Nine years of building distributed systems
 in Go, across fintech, e-commerce, healthcare and government e-procurement.
 
