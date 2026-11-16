@@ -21,5 +21,3 @@ evaluation for Claude Code and Codex.
 | [centralized-log](https://github.com/faizalpribadi/centralized-log) | Structured application logging into the ELK stack |
 
 **Stack:** Go, PostgreSQL, Kafka, Pub/Sub, Kubernetes, Terraform, AWS, Google Cloud
-
-[LinkedIn](https://linkedin.com/in/faizalpribadi)
